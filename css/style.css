@@ -1,0 +1,40 @@
+body
+{ 
+ background-color:#f5f5f0;
+ font-family: arial,  Tahoma;
+ padding: 10px
+}
+fieldset
+{ 
+    background-color:#fff;
+    border:1px solid #ccc;
+    padding: 20px;
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+
+
+}
+legend
+{
+    background-color:#fff;
+    border:1px solid #ccc;
+    padding: 5px
+}
+input{margin-bottom: 10px;}
+label,input[type="submit"]{margin-bottom: 10px; display: block;}
+input[type="password"],input[type="email"],input[type="text"]
+{
+    padding: 5px;
+    width: 300px
+}
+hr{ border:1px solid #ccc;}
+textarea
+{
+ padding: 10px;
+ height: 150px;
+ width: 300px;
+ margin-bottom: 10px
+}
+
+
